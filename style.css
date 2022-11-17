@@ -1,8 +1,8 @@
 /* links css */
-@import "/css/index.css";
-@import "/css/sobre.css";
-@import "/css/horarios.css";
-@import "/css/contato.css";
+@import "./css/index.css";
+@import "./css/sobre.css";
+@import "./css/horarios.css";
+@import "./css/contato.css";
 
 /* global */
 h1,

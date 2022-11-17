@@ -8,7 +8,7 @@
 .header-contato {
   display: grid;
   align-items: center;
-  background: url(/img/imgheadercontato2.png);
+  background: url(./img./imgheadercontato2.png);
   border-radius: 5px;
   width: 1200px;
   height: 400px;
